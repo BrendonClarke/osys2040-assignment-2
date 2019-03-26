@@ -9,7 +9,7 @@ router.get('/chat', async function getMessages(req, res, next) {
 
   // TODO: create like model
   // TODO: get like count from like model
-  const likeCount = 1
+  const likeCount = 0
   // TODO: get whether signed in user likes this from model
   const iLikeThis = true
 
